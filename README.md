@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ananya Krishnan</h1>
+<h1 align="center">Hi, I'm Ananya Krishnan</h1>
 <h3 align="center">AI/ML Undergrad | Building Agentic AI & GraphRAG Systems | Ranchi, Jharkhand</h3>
 
 <p align="center">
