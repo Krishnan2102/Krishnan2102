@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Ananya Krishnan</h1>
-<h3 align="center">AI/ML Undergrad | Building Agentic AI & GraphRAG Systems | Ranchi, Jharkhand</h3>
+<h3 align="center">AI/ML Undergrad | Building Agentic AI Systems & Machine Learning Models | Ranchi, Jharkhand</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ananyakrishnan/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -9,7 +9,7 @@
 ---
 
 ### 🎓 Education
-- **B.Tech, Artificial Intelligence & Machine Learning** — Birla Institute of Technology, Mesra (Aug 2024 – Present), CGPA: **8.81**
+- **B.Tech, Artificial Intelligence & Machine Learning** — Birla Institute of Technology, Mesra (Aug 2024 – Present), CGPA: **8.86**
 - **12th Grade (96%)** — Delhi Public School, Ranchi (2022 – 2024)
 - **10th Grade (97.2%)** — St. Francis School, Deoghar (2010 – 2022)
 
