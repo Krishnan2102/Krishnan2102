@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Ananya Krishnan</h1>
+[<h1 align="center">Hi, I'm Ananya Krishnan</h1>
 <h3 align="center">AI/ML Undergrad | Building Agentic AI Systems & Machine Learning Models | Ranchi, Jharkhand</h3>
 
 <p align="center">
@@ -82,3 +82,4 @@
 <p align="center">
   <i>Thanks for stopping by! Feel free to explore my repositories and connect with me.</i>
 </p>
+](https://github.com/Krishnan2102)
